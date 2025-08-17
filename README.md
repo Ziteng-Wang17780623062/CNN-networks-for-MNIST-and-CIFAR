@@ -1,5 +1,7 @@
 # CNN-networks-for-MNIST-and-CIFAR
 
+（网络构建以及项目运行界面请参考\docs中的说明文件）
+
 ## 项目简介
 本项目实现了基于卷积神经网络（CNN）的MNIST和CIFAR数据集图像分类模型，包含CNN_MNIST、CNN_CIFAR10和CNN_CIFAR100三种模型，支持模型训练、测试、保存和加载等功能，并提供了可视化的操作界面。
 
